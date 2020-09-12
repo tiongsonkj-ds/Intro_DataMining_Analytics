@@ -1,0 +1,5 @@
+Find a dataset suitable for link analysis and use Gephi or IPython Notebook with the networkx package to analyze the data. 
+Try using various kinds of methods and metrics, and compare the outcomes. 
+Visualize the results. 
+Describe the data, methodology, and results in a formal technical report. 
+Make sure to include figures and tables that describe the process and the outcomes, and reference them from the text. 
