@@ -5,3 +5,7 @@
 4. Define the clustering problem.
 5. Explain how the curse of dimensionality affects clustering in high-dimensions.
 6. Use hierarchical and k-means methods for clustering.
+
+### Orange
+The software used to accomplish this assignment was Orange.
+https://orange.biolab.si/
