@@ -1,0 +1,7 @@
+Find a dataset suitable for clustering and use Orange, Weka, or IPython Notebook to find a good set of clusters. 
+Try using various kinds of methods and metrics, and compare the outcomes. 
+Compute descriptive statistics for each cluster and visualize the results. 
+Attempt to provide labels for each cluster that would fit the instances you likely to find in that cluster. 
+Describe the data, methodology, and results in a formal technical report. 
+Make sure to include figures and tables that describe the process and the outcomes, and reference them from the text. 
+Submit your report using a PDF format.
