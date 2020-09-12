@@ -1,5 +1,6 @@
-Find a dataset suitable for association rule mining and use Orange, Weka, or IPython Notebook to find interesting association rules. 
+Find a dataset suitable for classification and use Orange, Weka, or IPython Notebook to find a good predictive model. 
 Try using various kinds of methods and metrics, and compare the outcomes. 
+Compute different evaluation statistics for the model and visualize the results. 
 Describe the data, methodology, and results in a formal technical report. 
 Make sure to include figures and tables that describe the process and the outcomes, and reference them from the text. 
-Submit your report using a PDF document format.
+Submit your report using a PDF format.
